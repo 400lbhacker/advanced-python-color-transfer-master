@@ -16,7 +16,7 @@ the content image must be named: 1.jpg, and style image: 2.jpg
 I modified the code to remove the numpy concated output, which created a giant 5x collage, and found very hard 
 to work with especially with larger images. Now it is designed that all 3x algorythem results will be saved 
 seperately their own unique output png's. Which allows easier cycling and much more rapid overall procedure.
-In the imgs/output folder they will appear as: (img_arr_lt.png, img_arr_mt.png, img_arr_reg.png) 
+In the /output folder they will appear as: (img_arr_lt.png, img_arr_mt.png, img_arr_reg.png) 
 
 
 I have also compiled a standalone executable (.exe) for Windows users. Tested and working. it must be put in base
